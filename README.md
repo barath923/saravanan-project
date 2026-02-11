@@ -1,8 +1,4 @@
-# Terraform Codebase Analysis (Simple English)
-
-This document explains what each part of this repository does, in plain language.
-
----
+# Terraform Codebase Analysis
 
 ## 1) What this project is for
 
